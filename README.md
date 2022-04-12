@@ -11,4 +11,4 @@ The interface allows to:
 
 After each iteration, the running time of the current algorithm is displayed.
 
-The program helps to understand the different ways in which the data can be sorted, and how much difference there is between a running time of `O(n)` and `O(nlog(n))`
+The program helps to understand the different ways in which the data can be sorted, and how much difference there is between a running time of `O(n^2)` and `O(nlog(n))`
